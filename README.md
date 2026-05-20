@@ -1,4 +1,5 @@
 # E-Commerce Sales & Customer Analytics Dashboard
+<img width="1235" height="704" alt="image" src="https://github.com/user-attachments/assets/0696fb22-9587-41f5-ab97-4520fcbfc4ab" />
 
 ## Project Overview
 This project combines PostgreSQL, SQL analytics, and Power BI to analyze e-commerce sales, customer behavior, delivery performance, and product category revenue.
